@@ -1,0 +1,1 @@
+ManevarskaLokomotiva UniverzalnaLokomotiva VagonPosebneNamjene VagonPosebneNamjene,B-A,1000

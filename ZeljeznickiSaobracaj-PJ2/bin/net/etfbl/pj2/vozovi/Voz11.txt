@@ -1,0 +1,1 @@
+TeretnaLokomotiva TeretnaLokomotiva TeretniVagon TeretniVagon,E-C-B,1150

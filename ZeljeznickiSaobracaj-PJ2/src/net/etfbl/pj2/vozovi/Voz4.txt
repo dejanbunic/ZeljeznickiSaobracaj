@@ -1,0 +1,1 @@
+TeretnaLokomotiva UniverzalnaLokomotiva TeretniVagon TeretniVagon TeretniVagon,B-C-B,1400
